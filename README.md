@@ -21,6 +21,12 @@ Add Tasks: Input task descriptions and due dates. The timestamp of when the task
 <img width="179" alt="Screenshot 2024-08-26 at 2 31 46 AM" src="https://github.com/user-attachments/assets/67e3b1ea-2e92-44d7-9bf2-874b0e1ed7e0">
 <br><br>
 
+<br>**INSTALLATION**<br>
+1) Download the files in this repository
+2) Download Android Studio
+3) Open the project on Android Studio
+4) Run the app on either the virtual device or your personal device via direct connection to your laptop
+
 <br>**USAGE**<br>
 
 <br>ADDING A TASK<br>
@@ -43,3 +49,11 @@ Add Tasks: Input task descriptions and due dates. The timestamp of when the task
 4) 'res/layout/activity_main.xml': Layout for the main activity.
 5) 'res/layout/activity_splash.xml': Layout for the splash activity.
 6) 'res/layout/edit_task_dialog.xml': Layout for the edit task dialog.
+<br>NOTE: There is one layout that has no functioning right now it might be used for a potential new feature in the near future<br>
+
+<br>**CONTACTS**</br>
+For any questions or feedback, feel free to contact us<br>
+1) Abejay (Team Leader): abejay_ml@hre.iitr.ac.in
+2) Om Daddi: om_ds@cs.iitr.ac.in
+3) Harshita: to be filled
+4) Ishir: to be filled
