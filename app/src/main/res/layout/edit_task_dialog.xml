@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/etEditTask"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Edit task description"/>
+
+    <EditText
+        android:id="@+id/etEditDueDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/etEditTask"
+        android:layout_marginTop="8dp"
+        android:hint="Edit due date (yyyy-MM-dd)"/>
+</RelativeLayout>
