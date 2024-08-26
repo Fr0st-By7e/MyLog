@@ -55,5 +55,5 @@ Add Tasks: Input task descriptions and due dates. The timestamp of when the task
 For any questions or feedback, feel free to contact us<br>
 1) Abejay (Team Leader): abejay_ml@hre.iitr.ac.in
 2) Om Daddi: om_ds@cs.iitr.ac.in
-3) Harshita: to be filled
-4) Ishir: to be filled
+3) Harshita: harshita_a@ma.iitr.ac.in
+4) Ishir: ishir_p@ma.iitr.ac.in
