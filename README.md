@@ -34,7 +34,7 @@ Add Tasks: Input task descriptions and due dates. The timestamp of when the task
 2) Provide a due date for the task.
 3) Click the "Add Task" button to save the task.<br>
 
-<br>EDITING A CLASS<br>
+<br>EDITING A TASK<br>
 1) Long-press on a task to open the edit dialog.
 2) Update the task description, due date, and priority.
 3) Click "Save" to apply changes.
